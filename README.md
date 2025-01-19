@@ -68,6 +68,7 @@ For inquiries or collaboration opportunities, please reach out to me:
 **Email**: malakismail706@gmail.com 
 
 **LinkedIn**: https://www.linkedin.com/in/malakismail0/ 
+
 ---
 
 🚀 *Stay tuned for more PUBG data insights!*
