@@ -60,11 +60,14 @@ This project performs **Exploratory Data Analysis (EDA)** on PUBG weapons using 
 - If you find this useful, give it a ⭐ on GitHub!  
 
 ---
+### 📌Contact
+For inquiries or collaboration opportunities, please reach out to me:
 
-### 📌 Author
-**Malak Ismail**  
-GitHub: [@Malakismail](https://github.com/Malakismail)  
+**Name**: Malak Ismail  
 
+**Email**: malakismail706@gmail.com 
+
+**LinkedIn**: https://www.linkedin.com/in/malakismail0/ 
 ---
 
 🚀 *Stay tuned for more PUBG data insights!*
